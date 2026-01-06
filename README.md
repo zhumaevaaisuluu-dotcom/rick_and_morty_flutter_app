@@ -1,16 +1,43 @@
-# rick_and_morty
+# Rick and Morty Flutter App
 
-A new Flutter project.
+A Flutter application that displays characters from the Rick and Morty API.
 
-## Getting Started
+This project demonstrates working with REST API, navigation, and UI in Flutter.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
+- Characters list from API
+- Character details screen
+- Bottom navigation
+- REST API integration using Dio
+- Clean project structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+- Flutter
+- Dart
+- Dio
+- REST API
+
+---
+
+## 🌐 API
+Rick and Morty API  
+'https://rickandmortyapi.com/api/character/'
+
+---
+
+## 📸 Screenshots
+https://github.com/user-attachments/assets/eae27693-d2ec-4b5f-9ed3-eb833cf42204
+https://github.com/user-attachments/assets/86018976-9f1b-4540-8a72-b3dcf0e31af3
+
+
+---
+
+## ▶️ How to run the project
+
+```bash
+flutter pub get
+flutter run
